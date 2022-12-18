@@ -11,7 +11,7 @@ struct node{
 
     }
 };
-
+//MOINs
 int main(){
     struct node* root =new node(1);
     root->left=new node(2);
